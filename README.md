@@ -25,7 +25,7 @@
 <img src="./assets/headings/about.svg" width="100%" alt="About Me" />
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="92%" alt="whoami: Syed Muhammad Rehan Haider, BS Software Engineering at FAST NUCES Peshawar (2023-2027). Interests: full-stack, AI/RAG systems, data analytics, cybersecurity. Open to internships and collaborations." />
+  <img src="./assets/about.svg" width="92%" alt="I am a Software Engineering student at FAST NUCES Peshawar (2023-2027) who builds full-stack web apps and AI-powered systems, from RAG chatbots to data dashboards. Currently exploring LLM integration, prompt engineering and AI meets cybersecurity. Open to internships and collaborations." />
 </p>
 
 <br/>
